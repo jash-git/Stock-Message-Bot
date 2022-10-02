@@ -33,3 +33,4 @@ C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\bin\x86\Debug\net6.
 C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\bin\x86\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\bin\x86\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\obj\x86\Debug\net6.0\spider_input.csproj.CopyComplete
+C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\bin\x86\Debug\net6.0\wget.exe

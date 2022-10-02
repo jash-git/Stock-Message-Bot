@@ -82,7 +82,7 @@ namespace spider_input
                 mySqlTransaction.Commit();
                 if (m_blnlogfile)
                 {
-                    String StrLog = String.Format("{0}: {1};{2}", "sync_SQLiteInsertUpdateDelete", SqlSelectString, "success");
+                    String StrLog = String.Format("{0}: {1};{2}", "Json2SQLite", SqlSelectString, "success");
                     LogFile.Write( StrLog);
                 }
             }
@@ -92,7 +92,7 @@ namespace spider_input
                 //throw (ex);
                 if (m_blnlogfile)
                 {
-                    String StrLog = String.Format("{0}: {1};{2}", "sync_SQLiteInsertUpdateDelete", SqlSelectString, ex.ToString());
+                    String StrLog = String.Format("{0}: {1};{2}", "Json2SQLite", SqlSelectString, ex.ToString());
                     LogFile.Write( StrLog);
                 }
             }
@@ -113,7 +113,7 @@ namespace spider_input
                 mySqlTransaction.Commit();
                 if (m_blnlogfile)
                 {
-                    String StrLog = String.Format("{0}: {1};{2}", "vpos_SQLiteInsertUpdateDelete", SqlSelectString, "success");
+                    String StrLog = String.Format("{0}: {1};{2}", "Json2SQLite", SqlSelectString, "success");
                     LogFile.Write( StrLog);
                 }
             }
@@ -122,7 +122,7 @@ namespace spider_input
                 mySqlTransaction.Rollback();
                 if (m_blnlogfile)
                 {
-                    String StrLog = String.Format("{0}: {1};{2}", "vpos_SQLiteInsertUpdateDelete", SqlSelectString, ex.ToString());
+                    String StrLog = String.Format("{0}: {1};{2}", "Json2SQLite", SqlSelectString, ex.ToString());
                     LogFile.Write( StrLog);
                 }
             }
@@ -146,7 +146,7 @@ namespace spider_input
 
                 if (m_blnlogfile)
                 {
-                    String StrLog = String.Format("{0}: {1};{2}", "sync_GetDataTable", SQLiteString, "success");
+                    String StrLog = String.Format("{0}: {1};{2}", "Json2SQLite", SQLiteString, "success");
                     LogFile.Write( StrLog);
                 }
             }
@@ -154,7 +154,7 @@ namespace spider_input
             {
                 if (m_blnlogfile)
                 {
-                    String StrLog = String.Format("{0}: {1};{2}", "sync_GetDataTable", SQLiteString, ex.ToString());
+                    String StrLog = String.Format("{0}: {1};{2}", "Json2SQLite", SQLiteString, ex.ToString());
                     LogFile.Write( StrLog);
                 }
             }
@@ -179,7 +179,7 @@ namespace spider_input
 
                 if (m_blnlogfile)
                 {
-                    String StrLog = String.Format("{0}: {1};{2}", "vpos_GetDataTable", SQLiteString, "success");
+                    String StrLog = String.Format("{0}: {1};{2}", "Json2SQLite", SQLiteString, "success");
                     LogFile.Write( StrLog);
                 }
             }
@@ -187,7 +187,7 @@ namespace spider_input
             {
                 if (m_blnlogfile)
                 {
-                    String StrLog = String.Format("{0}: {1};{2}", "vpos_GetDataTable", SQLiteString, ex.ToString());
+                    String StrLog = String.Format("{0}: {1};{2}", "Json2SQLite", SQLiteString, ex.ToString());
                     LogFile.Write( StrLog);
                 }
             }
