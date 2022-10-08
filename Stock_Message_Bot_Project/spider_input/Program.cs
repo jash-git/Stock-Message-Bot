@@ -71,22 +71,33 @@ namespace spider_input
             {
                 p.WaitForExit();
                 LogFile.Write("wget Close");
-                if (ReadJsonInput("0056.json"))
+                if (ReadJsonInput($"{Stock_code}.json"))
                 {
-                    for (int i = 0; i < m_stock_data.data.Count; i++)
+                    if((m_stock_data!=null) && (m_stock_data.data!=null) && (m_stock_data.data.Count>0))
                     {
-                        String Time = m_stock_data.data[i][0].Replace("/", "");
+                        for (int i = 0; i < m_stock_data.data.Count; i++)
+                        {
+                            String Time = m_stock_data.data[i][0].Replace("/", "");
 
-                        String Opening_price = m_stock_data.data[i][3];
-                        String Highest_price = m_stock_data.data[i][4];
-                        String Lowest_price = m_stock_data.data[i][5];
-                        String Closing_price = m_stock_data.data[i][6];
-                        String Price_difference = m_stock_data.data[i][7];
-                        String SQL = String.Format("INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('{0}','{1}','{2}','{3}','{4}','{5}','{6}')",
-                                                                      Time, Stock_code, Opening_price, Highest_price, Lowest_price, Closing_price, Price_difference);
-                        SQLDataTableModel.SQLiteInsertUpdateDelete(SQL);
+                            String Opening_price = m_stock_data.data[i][3];
+                            String Highest_price = m_stock_data.data[i][4];
+                            String Lowest_price = m_stock_data.data[i][5];
+                            String Closing_price = m_stock_data.data[i][6];
+                            String Price_difference = m_stock_data.data[i][7];
+                            String SQL = String.Format("INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('{0}','{1}','{2}','{3}','{4}','{5}','{6}')",
+                                                                          Time, Stock_code, Opening_price, Highest_price, Lowest_price, Closing_price, Price_difference);
+                            SQLDataTableModel.SQLiteInsertUpdateDelete(SQL);
+                        }
                     }
+                    else
+                    {
+                        String StrLogData = Stock_code + ".json" + " data error";
+                        Console.WriteLine(StrLogData);//return;
+                        LogFile.Write(StrLogData);
+                    }
+
                 }
+                FileLib.DeleteFile($"{Stock_code}.json");
             }
         }
 
@@ -99,8 +110,26 @@ namespace spider_input
         {
             LogFile.CleanLog();
             LogFile.Write("spider_input Start");
-            String Stock_code = "0056";
-            Json2SQLite(Stock_code);
+
+            if(FileLib.IsFileExists("Stocks.txt"))
+            {
+                String AllData = FileLib.ReadTxtFile("Stocks.txt", false);
+                String[] Stock_codes = AllData.Split('\n');
+                for (int i = 0; i < Stock_codes.Length; i++)
+                {
+                    if (Stock_codes[i].Length > 0)
+                    {
+                        Console.WriteLine($"{Stock_codes[i]} Start");//return;
+                        LogFile.Write($"{Stock_codes[i]} Start");
+                        Json2SQLite(Stock_codes[i]);
+                        Thread.Sleep(5000);
+                        Console.WriteLine($"{Stock_codes[i]} End");//return;
+                        LogFile.Write($"{Stock_codes[i]} End");
+                    }
+                }
+            }
+
+
             pause();
             LogFile.Write("spider_input Close");
         }

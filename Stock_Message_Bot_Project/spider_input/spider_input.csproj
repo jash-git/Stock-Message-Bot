@@ -18,6 +18,9 @@
     <None Update="Stock.db">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="Stocks.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="wget.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
