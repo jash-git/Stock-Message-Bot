@@ -1,0 +1,557 @@
+﻿2022-10-09 13:33:51:983 => spider_input Start
+2022-10-09 13:33:52:077 => 8926 Start
+2022-10-09 13:33:52:190 => wget Start
+2022-10-09 13:33:52:759 => wget Close
+2022-10-09 13:33:54:022 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','8926','34.00','34.00','33.00','33.80','-0.55');success
+2022-10-09 13:33:54:039 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','8926','34.00','34.20','33.70','33.95','+0.15');success
+2022-10-09 13:33:54:054 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','8926','34.20','34.20','33.70','33.70','-0.25');success
+2022-10-09 13:33:54:070 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','8926','33.85','33.85','33.55','33.70',' 0.00');success
+2022-10-09 13:33:54:085 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','8926','33.65','33.65','33.05','33.10','-0.60');success
+2022-10-09 13:33:59:099 => 8926 End
+2022-10-09 13:33:59:100 => 9905 Start
+2022-10-09 13:33:59:100 => wget Start
+2022-10-09 13:33:59:450 => wget Close
+2022-10-09 13:33:59:468 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','9905','24.50','24.55','24.30','24.40','-0.20');success
+2022-10-09 13:33:59:482 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','9905','24.40','24.95','24.40','24.50','+0.10');success
+2022-10-09 13:33:59:495 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','9905','24.50','24.90','24.50','24.65','+0.15');success
+2022-10-09 13:33:59:509 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','9905','24.65','24.75','24.50','24.75','+0.10');success
+2022-10-09 13:33:59:522 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','9905','24.75','24.85','24.75','24.80','+0.05');success
+2022-10-09 13:34:04:527 => 9905 End
+2022-10-09 13:34:04:528 => 6281 Start
+2022-10-09 13:34:04:528 => wget Start
+2022-10-09 13:34:04:794 => wget Close
+2022-10-09 13:34:04:810 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','6281','81.00','81.10','80.70','80.90','-0.10');success
+2022-10-09 13:34:04:825 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','6281','80.90','81.60','80.90','81.20','+0.30');success
+2022-10-09 13:34:04:839 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','6281','81.10','81.50','80.30','81.00','-0.20');success
+2022-10-09 13:34:04:855 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','6281','81.00','81.00','81.00','81.00',' 0.00');success
+2022-10-09 13:34:04:870 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','6281','81.00','81.20','81.00','81.10','+0.10');success
+2022-10-09 13:34:09:874 => 6281 End
+2022-10-09 13:34:09:875 => 3702 Start
+2022-10-09 13:34:09:875 => wget Start
+2022-10-09 13:34:10:158 => wget Close
+2022-10-09 13:34:10:175 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','3702','45.85','46.20','45.30','45.85','-0.60');success
+2022-10-09 13:34:10:188 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','3702','46.40','47.15','46.40','47.00','+1.15');success
+2022-10-09 13:34:10:204 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','3702','47.15','47.70','47.10','47.30','+0.30');success
+2022-10-09 13:34:10:221 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','3702','47.50','48.05','47.40','47.70','+0.40');success
+2022-10-09 13:34:10:235 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','3702','47.65','47.65','47.20','47.20','-0.50');success
+2022-10-09 13:34:15:236 => 3702 End
+2022-10-09 13:34:15:237 => 2880 Start
+2022-10-09 13:34:15:238 => wget Start
+2022-10-09 13:34:15:708 => wget Close
+2022-10-09 13:34:15:741 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2880','22.10','22.25','21.95','22.05','-0.20');success
+2022-10-09 13:34:15:765 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2880','22.20','22.30','22.00','22.25','+0.20');success
+2022-10-09 13:34:15:789 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2880','22.30','22.45','22.10','22.10','-0.15');success
+2022-10-09 13:34:15:816 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2880','22.25','22.30','22.10','22.30','+0.20');success
+2022-10-09 13:34:15:842 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2880','22.10','22.20','22.00','22.00','-0.30');success
+2022-10-09 13:34:20:847 => 2880 End
+2022-10-09 13:34:20:849 => 2347 Start
+2022-10-09 13:34:20:849 => wget Start
+2022-10-09 13:34:21:300 => wget Close
+2022-10-09 13:34:21:330 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2347','52.50','53.40','52.10','53.30','+0.50');success
+2022-10-09 13:34:21:352 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2347','53.60','54.70','53.60','54.30','+1.00');success
+2022-10-09 13:34:21:375 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2347','54.40','55.00','54.10','54.10','-0.20');success
+2022-10-09 13:34:21:398 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2347','54.70','55.30','54.50','54.90','+0.80');success
+2022-10-09 13:34:21:421 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2347','54.90','55.00','54.00','54.40','-0.50');success
+2022-10-09 13:34:26:424 => 2347 End
+2022-10-09 13:34:26:425 => 1229 Start
+2022-10-09 13:34:26:426 => wget Start
+2022-10-09 13:34:26:841 => wget Close
+2022-10-09 13:34:26:866 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1229','50.60','50.60','49.65','49.65','-1.05');success
+2022-10-09 13:34:26:886 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1229','49.95','50.20','49.35','49.95','+0.30');success
+2022-10-09 13:34:26:904 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1229','50.30','51.20','50.20','50.90','+0.95');success
+2022-10-09 13:34:26:920 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1229','51.10','51.10','50.00','50.60','-0.30');success
+2022-10-09 13:34:26:939 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1229','50.40','50.40','49.80','49.85','-0.75');success
+2022-10-09 13:34:31:945 => 1229 End
+2022-10-09 13:34:31:946 => 1101 Start
+2022-10-09 13:34:31:946 => wget Start
+2022-10-09 13:34:32:267 => wget Close
+2022-10-09 13:34:32:292 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1101','33.65','33.90','33.40','33.65','-0.15');success
+2022-10-09 13:34:32:310 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1101','33.90','34.20','33.55','33.85','+0.20');success
+2022-10-09 13:34:32:328 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1101','34.25','34.40','34.05','34.15','+0.30');success
+2022-10-09 13:34:32:346 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1101','34.35','34.50','34.20','34.30','+0.15');success
+2022-10-09 13:34:32:362 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1101','34.15','34.50','34.15','34.25','-0.05');success
+2022-10-09 13:34:37:370 => 1101 End
+2022-10-09 13:34:37:371 => 1513 Start
+2022-10-09 13:34:37:372 => wget Start
+2022-10-09 13:34:37:835 => wget Close
+2022-10-09 13:34:38:674 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1513','56.10','57.40','56.00','56.20','-0.70');success
+2022-10-09 13:34:38:718 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1513','57.70','58.30','56.10','57.20','+1.00');success
+2022-10-09 13:34:38:738 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1513','57.90','58.50','57.00','57.00','-0.20');success
+2022-10-09 13:34:38:757 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1513','57.50','57.80','57.10','57.50','+0.50');success
+2022-10-09 13:34:38:773 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1513','57.40','58.10','57.00','57.10','-0.40');success
+2022-10-09 13:34:43:789 => 1513 End
+2022-10-09 13:34:43:792 => 0050 Start
+2022-10-09 13:34:43:792 => wget Start
+2022-10-09 13:34:44:108 => wget Close
+2022-10-09 13:34:44:125 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','0050','102.50','103.60','102.05','102.20','-1.25');success
+2022-10-09 13:34:44:139 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','0050','104.55','104.80','104.10','104.80','+2.60');success
+2022-10-09 13:34:44:153 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','0050','106.50','107.85','106.35','107.25','+2.45');success
+2022-10-09 13:34:44:167 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','0050','107.80','108.00','107.50','108.00','+0.75');success
+2022-10-09 13:34:44:181 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','0050','107.40','107.40','106.10','106.20','-1.80');success
+2022-10-09 13:34:49:194 => 0050 End
+2022-10-09 13:34:49:196 => 0056 Start
+2022-10-09 13:34:49:196 => wget Start
+2022-10-09 13:34:49:495 => wget Close
+2022-10-09 13:34:49:515 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','0056','25.54','25.76','25.46','25.67','-0.11');success
+2022-10-09 13:34:49:531 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','0056','26.25','26.28','25.96','26.27','+0.60');success
+2022-10-09 13:34:49:546 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','0056','26.57','26.72','26.48','26.62','+0.35');success
+2022-10-09 13:34:49:560 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','0056','26.63','26.63','26.48','26.57','-0.05');success
+2022-10-09 13:34:49:575 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','0056','26.45','26.45','26.27','26.28','-0.29');success
+2022-10-09 13:34:54:590 => 0056 End
+2022-10-09 13:34:54:595 => 00679B Start
+2022-10-09 13:34:54:595 => wget Start
+2022-10-09 13:34:54:920 => wget Close
+2022-10-09 13:34:54:924 => 00679B.json data error
+2022-10-09 13:34:59:939 => 00679B End
+2022-10-09 13:34:59:941 => 00878 Start
+2022-10-09 13:34:59:941 => wget Start
+2022-10-09 13:35:00:309 => wget Close
+2022-10-09 13:35:00:325 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','00878','15.91','15.97','15.86','15.87','-0.17');success
+2022-10-09 13:35:00:339 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','00878','16.03','16.13','16.00','16.08','+0.21');success
+2022-10-09 13:35:00:359 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','00878','16.19','16.26','16.15','16.21','+0.13');success
+2022-10-09 13:35:00:373 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','00878','16.25','16.28','16.17','16.18','-0.03');success
+2022-10-09 13:35:00:386 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','00878','16.15','16.15','16.07','16.07','-0.11');success
+2022-10-09 13:35:05:393 => 00878 End
+2022-10-09 13:35:05:394 => 00692 Start
+2022-10-09 13:35:05:395 => wget Start
+2022-10-09 13:35:05:691 => wget Close
+2022-10-09 13:35:05:712 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','00692','25.64','25.91','25.56','25.62','-0.24');success
+2022-10-09 13:35:05:727 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','00692','25.97','26.19','25.97','26.15','+0.53');success
+2022-10-09 13:35:05:740 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','00692','26.54','26.86','26.54','26.72','+0.57');success
+2022-10-09 13:35:05:753 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','00692','26.86','26.90','26.78','26.84','+0.12');success
+2022-10-09 13:35:05:768 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','00692','26.75','26.75','26.43','26.43','-0.41');success
+2022-10-09 13:35:10:782 => 00692 End
+2022-10-09 13:35:10:783 => 1231 Start
+2022-10-09 13:35:10:784 => wget Start
+2022-10-09 13:35:11:211 => wget Close
+2022-10-09 13:35:11:243 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1231','71.00','71.00','68.70','69.40','-1.60');success
+2022-10-09 13:35:11:264 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1231','70.00','70.20','69.40','69.90','+0.50');success
+2022-10-09 13:35:11:287 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1231','70.60','70.60','70.00','70.00','+0.10');success
+2022-10-09 13:35:11:308 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1231','70.00','70.10','69.80','70.10','+0.10');success
+2022-10-09 13:35:11:330 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1231','70.00','70.60','70.00','70.10',' 0.00');success
+2022-10-09 13:35:16:340 => 1231 End
+2022-10-09 13:35:16:342 => 2412 Start
+2022-10-09 13:35:16:342 => wget Start
+2022-10-09 13:35:16:780 => wget Close
+2022-10-09 13:35:16:808 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2412','113.00','113.50','111.00','111.50','-2.50');success
+2022-10-09 13:35:16:831 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2412','112.50','113.00','111.00','112.00','+0.50');success
+2022-10-09 13:35:16:853 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2412','112.00','112.50','111.50','111.50','-0.50');success
+2022-10-09 13:35:16:875 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2412','111.50','111.50','110.50','110.50','-1.00');success
+2022-10-09 13:35:16:899 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2412','110.00','111.00','109.50','110.50',' 0.00');success
+2022-10-09 13:35:21:909 => 2412 End
+2022-10-09 13:35:21:910 => 2480 Start
+2022-10-09 13:35:21:911 => wget Start
+2022-10-09 13:35:22:210 => wget Close
+2022-10-09 13:35:23:027 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2480','81.60','81.80','80.60','80.90','-0.90');success
+2022-10-09 13:35:23:070 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2480','81.20','81.30','80.90','81.10','+0.20');success
+2022-10-09 13:35:23:088 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2480','81.20','81.40','81.00','81.20','+0.10');success
+2022-10-09 13:35:23:103 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2480','81.30','81.30','80.60','81.00','-0.20');success
+2022-10-09 13:35:23:121 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2480','81.50','81.50','80.70','81.40','+0.40');success
+2022-10-09 13:35:28:131 => 2480 End
+2022-10-09 13:35:28:133 => 1303 Start
+2022-10-09 13:35:28:134 => wget Start
+2022-10-09 13:35:28:955 => wget Close
+2022-10-09 13:35:29:061 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1303','66.10','67.90','66.10','67.70','+0.80');success
+2022-10-09 13:35:29:088 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1303','67.90','68.40','67.40','67.80','+0.10');success
+2022-10-09 13:35:29:125 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1303','67.40','68.30','67.40','68.30','+0.50');success
+2022-10-09 13:35:29:155 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1303','68.40','68.40','67.40','67.60','-0.70');success
+2022-10-09 13:35:29:215 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1303','67.00','67.60','67.00','67.00','-0.60');success
+2022-10-09 13:35:34:232 => 1303 End
+2022-10-09 13:35:34:234 => 1216 Start
+2022-10-09 13:35:34:235 => wget Start
+2022-10-09 13:35:34:710 => wget Close
+2022-10-09 13:35:34:737 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1216','66.60','67.20','66.20','66.40','-0.90');success
+2022-10-09 13:35:34:761 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1216','66.40','66.70','65.60','65.70','-0.70');success
+2022-10-09 13:35:34:784 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1216','65.70','66.30','65.70','66.30','+0.60');success
+2022-10-09 13:35:34:806 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1216','66.70','67.00','65.70','66.00','-0.30');success
+2022-10-09 13:35:34:828 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1216','65.70','66.10','65.50','65.70','-0.30');success
+2022-10-09 13:35:39:831 => 1216 End
+2022-10-09 13:35:39:833 => 2308 Start
+2022-10-09 13:35:39:835 => wget Start
+2022-10-09 13:35:40:326 => wget Close
+2022-10-09 13:35:40:354 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2308','249.50','254.50','248.50','252.00','-1.00');success
+2022-10-09 13:35:40:381 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2308','256.00','259.50','254.50','258.50','+6.50');success
+2022-10-09 13:35:40:413 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2308','265.00','271.00','261.50','269.50','+11.00');success
+2022-10-09 13:35:40:462 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2308','272.00','280.00','271.50','278.50','+9.00');success
+2022-10-09 13:35:40:500 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2308','279.50','281.00','274.00','275.00','-3.50');success
+2022-10-09 13:35:45:511 => 2308 End
+2022-10-09 13:35:45:514 => 9939 Start
+2022-10-09 13:35:45:515 => wget Start
+2022-10-09 13:35:46:058 => wget Close
+2022-10-09 13:35:46:724 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','9939','83.70','84.20','81.70','82.20','-1.60');success
+2022-10-09 13:35:46:765 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','9939','83.90','85.90','82.80','85.80','+3.60');success
+2022-10-09 13:35:46:803 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','9939','86.00','86.20','82.60','84.40','-1.40');success
+2022-10-09 13:35:46:825 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','9939','84.40','84.80','83.10','83.30','-1.10');success
+2022-10-09 13:35:46:852 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','9939','83.20','84.20','82.80','83.50','+0.20');success
+2022-10-09 13:35:51:857 => 9939 End
+2022-10-09 13:35:51:860 => 2324 Start
+2022-10-09 13:35:51:861 => wget Start
+2022-10-09 13:35:52:338 => wget Close
+2022-10-09 13:35:52:374 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2324','21.50','21.60','21.45','21.45','-0.25');success
+2022-10-09 13:35:52:402 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2324','21.65','22.00','21.60','21.70','+0.25');success
+2022-10-09 13:35:52:428 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2324','21.75','21.95','21.65','21.70',' 0.00');success
+2022-10-09 13:35:52:456 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2324','21.75','21.90','21.70','21.70',' 0.00');success
+2022-10-09 13:35:52:487 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2324','21.70','21.70','21.55','21.60','-0.10');success
+2022-10-09 13:35:57:496 => 2324 End
+2022-10-09 13:35:57:498 => 2892 Start
+2022-10-09 13:35:57:499 => wget Start
+2022-10-09 13:35:58:027 => wget Close
+2022-10-09 13:35:58:058 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2892','25.80','25.85','25.40','25.65','-0.35');success
+2022-10-09 13:35:58:081 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2892','25.75','25.85','25.20','25.55','-0.10');success
+2022-10-09 13:35:58:105 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2892','25.55','25.70','25.45','25.45','-0.10');success
+2022-10-09 13:35:58:131 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2892','25.50','25.80','25.45','25.80','+0.35');success
+2022-10-09 13:35:58:157 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2892','25.55','25.60','25.40','25.50','-0.30');success
+2022-10-09 13:36:03:170 => 2892 End
+2022-10-09 13:36:03:173 => 2880 Start
+2022-10-09 13:36:03:174 => wget Start
+2022-10-09 13:36:03:774 => wget Close
+2022-10-09 13:36:04:347 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2880','22.10','22.25','21.95','22.05','-0.20');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:36:04:353 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2880','22.20','22.30','22.00','22.25','+0.20');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:36:04:358 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2880','22.30','22.45','22.10','22.10','-0.15');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:36:04:363 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2880','22.25','22.30','22.10','22.30','+0.20');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:36:04:368 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2880','22.10','22.20','22.00','22.00','-0.30');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:36:09:373 => 2880 End
+2022-10-09 13:36:09:375 => 5880 Start
+2022-10-09 13:36:09:376 => wget Start
+2022-10-09 13:36:09:974 => wget Close
+2022-10-09 13:36:09:996 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','5880','25.95','26.05','25.60','25.70','-0.55');success
+2022-10-09 13:36:10:029 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','5880','25.80','25.90','25.40','25.85','+0.15');success
+2022-10-09 13:36:10:061 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','5880','25.90','25.95','25.70','25.70','-0.15');success
+2022-10-09 13:36:10:093 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','5880','25.75','26.05','25.75','26.05','+0.35');success
+2022-10-09 13:36:10:127 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','5880','25.80','25.95','25.70','25.80','-0.25');success
+2022-10-09 13:36:15:136 => 5880 End
+2022-10-09 13:36:15:138 => 2834 Start
+2022-10-09 13:36:15:140 => wget Start
+2022-10-09 13:36:15:697 => wget Close
+2022-10-09 13:36:15:738 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2834','12.50','12.65','12.40','12.55','-0.05');success
+2022-10-09 13:36:15:769 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2834','12.65','12.70','12.50','12.60','+0.05');success
+2022-10-09 13:36:15:800 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2834','12.65','12.70','12.55','12.65','+0.05');success
+2022-10-09 13:36:15:830 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2834','12.65','12.90','12.60','12.85','+0.20');success
+2022-10-09 13:36:15:859 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2834','12.80','12.85','12.75','12.80','-0.05');success
+2022-10-09 13:36:20:872 => 2834 End
+2022-10-09 13:36:20:876 => 2886 Start
+2022-10-09 13:36:20:876 => wget Start
+2022-10-09 13:36:21:380 => wget Close
+2022-10-09 13:36:21:407 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2886','30.85','30.95','30.55','30.65','-0.50');success
+2022-10-09 13:36:21:437 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2886','30.75','30.95','30.55','30.70','+0.05');success
+2022-10-09 13:36:21:465 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2886','30.85','31.25','30.85','30.85','+0.15');success
+2022-10-09 13:36:21:494 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2886','31.00','31.35','30.70','31.35','+0.50');success
+2022-10-09 13:36:21:513 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2886','31.20','31.25','30.85','31.00','-0.35');success
+2022-10-09 13:36:26:519 => 2886 End
+2022-10-09 13:36:26:520 => 2891 Start
+2022-10-09 13:36:26:520 => wget Start
+2022-10-09 13:36:26:845 => wget Close
+2022-10-09 13:36:26:865 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2891','19.80','19.95','19.60','19.70','-0.15');success
+2022-10-09 13:36:26:879 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2891','20.10','20.30','20.10','20.15','+0.45');success
+2022-10-09 13:36:26:893 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2891','20.40','20.80','20.35','20.50','+0.35');success
+2022-10-09 13:36:26:907 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2891','20.60','20.75','20.40','20.60','+0.10');success
+2022-10-09 13:36:26:923 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2891','20.40','20.60','20.40','20.45','-0.15');success
+2022-10-09 13:36:31:936 => 2891 End
+2022-10-09 13:36:31:938 => 2881 Start
+2022-10-09 13:36:31:939 => wget Start
+2022-10-09 13:36:32:658 => wget Close
+2022-10-09 13:36:32:674 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2881','49.40','49.80','48.85','48.90','-1.00');success
+2022-10-09 13:36:32:688 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2881','49.50','49.70','48.80','49.45','+0.55');success
+2022-10-09 13:36:32:705 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2881','50.50','51.00','50.10','50.60','+1.15');success
+2022-10-09 13:36:32:722 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2881','50.90','51.00','50.20','50.70','+0.10');success
+2022-10-09 13:36:32:738 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2881','50.50','50.90','50.30','50.70',' 0.00');success
+2022-10-09 13:36:37:753 => 2881 End
+2022-10-09 13:36:37:755 => 2887 Start
+2022-10-09 13:36:37:755 => wget Start
+2022-10-09 13:36:38:139 => wget Close
+2022-10-09 13:36:38:156 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2887','13.60','13.70','13.40','13.45','-0.25');success
+2022-10-09 13:36:38:173 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2887','13.60','13.70','13.40','13.55','+0.10');success
+2022-10-09 13:36:38:187 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2887','13.60','13.85','13.60','13.65','+0.10');success
+2022-10-09 13:36:38:204 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2887','13.75','13.75','13.60','13.70','+0.05');success
+2022-10-09 13:36:38:220 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2887','13.60','13.85','13.60','13.75','+0.05');success
+2022-10-09 13:36:43:228 => 2887 End
+2022-10-09 13:36:43:229 => 2905 Start
+2022-10-09 13:36:43:230 => wget Start
+2022-10-09 13:36:43:507 => wget Close
+2022-10-09 13:36:43:525 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2905','14.50','14.90','14.30','14.50',' 0.00');success
+2022-10-09 13:36:43:540 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2905','14.50','14.55','14.20','14.40','-0.10');success
+2022-10-09 13:36:43:555 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2905','14.45','14.55','14.30','14.50','+0.10');success
+2022-10-09 13:36:43:569 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2905','14.50','14.55','14.40','14.55','+0.05');success
+2022-10-09 13:36:43:583 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2905','14.35','14.60','14.35','14.60','+0.05');success
+2022-10-09 13:36:48:597 => 2905 End
+2022-10-09 13:36:48:598 => 1233 Start
+2022-10-09 13:36:48:598 => wget Start
+2022-10-09 13:36:51:930 => wget Close
+2022-10-09 13:36:51:950 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1233','32.80','33.65','32.75','33.00','-0.10');success
+2022-10-09 13:36:51:967 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1233','32.80','32.80','32.75','32.80','-0.20');success
+2022-10-09 13:36:51:981 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1233','32.80','33.30','32.80','33.30','+0.50');success
+2022-10-09 13:36:51:996 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1233','32.60','33.20','32.60','33.20','-0.10');success
+2022-10-09 13:36:52:012 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1233','33.25','33.25','33.20','33.20',' 0.00');success
+2022-10-09 13:36:57:021 => 1233 End
+2022-10-09 13:36:57:023 => 2105 Start
+2022-10-09 13:36:57:024 => wget Start
+2022-10-09 13:36:57:323 => wget Close
+2022-10-09 13:36:57:342 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2105','35.40','35.80','35.00','35.00','-0.70');success
+2022-10-09 13:36:57:357 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2105','35.55','35.60','35.15','35.35','+0.35');success
+2022-10-09 13:36:57:374 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2105','35.50','36.05','35.30','35.70','+0.35');success
+2022-10-09 13:36:57:389 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2105','35.70','36.15','35.55','35.80','+0.10');success
+2022-10-09 13:36:57:403 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2105','35.60','35.80','35.15','35.25','-0.55');success
+2022-10-09 13:37:02:409 => 2105 End
+2022-10-09 13:37:02:410 => 4904 Start
+2022-10-09 13:37:02:410 => wget Start
+2022-10-09 13:37:02:944 => wget Close
+2022-10-09 13:37:02:967 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','4904','71.40','71.40','69.30','69.50','-2.90');success
+2022-10-09 13:37:02:983 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','4904','69.50','70.40','69.20','70.10','+0.60');success
+2022-10-09 13:37:02:998 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','4904','69.80','70.30','69.30','69.50','-0.60');success
+2022-10-09 13:37:03:013 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','4904','69.90','70.00','68.30','68.50','-1.00');success
+2022-10-09 13:37:03:027 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','4904','68.10','68.70','68.00','68.30','-0.20');success
+2022-10-09 13:37:08:039 => 4904 End
+2022-10-09 13:37:08:041 => 9925 Start
+2022-10-09 13:37:08:041 => wget Start
+2022-10-09 13:37:08:351 => wget Close
+2022-10-09 13:37:08:370 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','9925','38.95','38.95','38.80','38.90','-0.10');success
+2022-10-09 13:37:08:387 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','9925','38.90','39.00','38.90','38.95','+0.05');success
+2022-10-09 13:37:08:402 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','9925','39.00','39.10','38.95','39.00','+0.05');success
+2022-10-09 13:37:08:415 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','9925','39.00','39.10','38.95','39.00',' 0.00');success
+2022-10-09 13:37:08:432 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','9925','39.05','39.05','38.90','38.90','-0.10');success
+2022-10-09 13:37:13:441 => 9925 End
+2022-10-09 13:37:13:442 => 9930 Start
+2022-10-09 13:37:13:443 => wget Start
+2022-10-09 13:37:13:741 => wget Close
+2022-10-09 13:37:13:760 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','9930','44.90','45.20','44.80','44.95','-0.25');success
+2022-10-09 13:37:13:774 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','9930','45.00','45.45','45.00','45.20','+0.25');success
+2022-10-09 13:37:13:790 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','9930','45.20','45.60','45.20','45.25','+0.05');success
+2022-10-09 13:37:13:806 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','9930','45.30','45.50','45.10','45.20','-0.05');success
+2022-10-09 13:37:13:822 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','9930','45.50','45.50','45.10','45.25','+0.05');success
+2022-10-09 13:37:18:835 => 9930 End
+2022-10-09 13:37:18:836 => 2104 Start
+2022-10-09 13:37:18:837 => wget Start
+2022-10-09 13:37:19:145 => wget Close
+2022-10-09 13:37:19:163 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2104','19.30','19.55','19.15','19.40',' 0.00');success
+2022-10-09 13:37:19:177 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2104','19.60','19.80','19.45','19.60','+0.20');success
+2022-10-09 13:37:19:192 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2104','19.75','19.90','19.65','19.65','+0.05');success
+2022-10-09 13:37:19:206 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2104','19.70','19.75','19.55','19.65',' 0.00');success
+2022-10-09 13:37:19:221 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2104','19.60','19.85','19.55','19.65',' 0.00');success
+2022-10-09 13:37:24:234 => 2104 End
+2022-10-09 13:37:24:236 => 6281 Start
+2022-10-09 13:37:24:236 => wget Start
+2022-10-09 13:37:24:545 => wget Close
+2022-10-09 13:37:24:552 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','6281','81.00','81.10','80.70','80.90','-0.10');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:37:24:553 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','6281','80.90','81.60','80.90','81.20','+0.30');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:37:24:555 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','6281','81.10','81.50','80.30','81.00','-0.20');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:37:24:557 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','6281','81.00','81.00','81.00','81.00',' 0.00');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:37:24:559 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','6281','81.00','81.20','81.00','81.10','+0.10');code = Constraint (19), message = System.Data.SQLite.SQLiteException (0x800027AF): constraint failed
+UNIQUE constraint failed: main.Time, main.Stock_code
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at spider_input.SQLDataTableModel.SQLiteInsertUpdateDelete(String SqlSelectString) in C:\Users\user\Desktop\Stock_Message_Bot_Project\spider_input\SQLDataTableModel.cs:line 112
+2022-10-09 13:37:29:573 => 6281 End
+2022-10-09 13:37:29:574 => 1717 Start
+2022-10-09 13:37:29:575 => wget Start
+2022-10-09 13:37:29:874 => wget Close
+2022-10-09 13:37:29:880 => 1717.json data error
+2022-10-09 13:37:34:883 => 1717 End
+2022-10-09 13:37:34:884 => 9917 Start
+2022-10-09 13:37:34:884 => wget Start
+2022-10-09 13:37:35:212 => wget Close
+2022-10-09 13:37:35:226 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','9917','99.00','100.00','98.80','98.80','-2.20');success
+2022-10-09 13:37:35:242 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','9917','99.10','99.80','98.70','98.80',' 0.00');success
+2022-10-09 13:37:35:256 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','9917','98.70','99.30','98.60','98.70','-0.10');success
+2022-10-09 13:37:35:270 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','9917','99.20','99.40','98.70','99.10','+0.40');success
+2022-10-09 13:37:35:284 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','9917','99.00','99.00','98.50','99.00','-0.10');success
+2022-10-09 13:37:40:298 => 9917 End
+2022-10-09 13:37:40:299 => 1234 Start
+2022-10-09 13:37:40:299 => wget Start
+2022-10-09 13:37:40:636 => wget Close
+2022-10-09 13:37:40:658 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1234','32.95','33.40','32.95','33.25','+0.10');success
+2022-10-09 13:37:40:673 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1234','33.25','33.50','33.20','33.35','+0.10');success
+2022-10-09 13:37:40:688 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1234','33.10','33.45','33.10','33.20','-0.15');success
+2022-10-09 13:37:40:704 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1234','33.20','33.25','33.20','33.20',' 0.00');success
+2022-10-09 13:37:40:737 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1234','33.30','33.45','33.15','33.30','+0.10');success
+2022-10-09 13:37:45:743 => 1234 End
+2022-10-09 13:37:45:744 => 2430 Start
+2022-10-09 13:37:45:745 => wget Start
+2022-10-09 13:37:46:019 => wget Close
+2022-10-09 13:37:46:032 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2430','44.40','44.40','43.55','43.90','-0.45');success
+2022-10-09 13:37:46:048 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2430','43.90','44.20','43.90','43.90',' 0.00');success
+2022-10-09 13:37:46:065 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2430','43.70','44.20','43.55','43.70','-0.20');success
+2022-10-09 13:37:46:080 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2430','43.40','43.75','42.15','42.50','-1.20');success
+2022-10-09 13:37:46:096 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2430','42.15','42.15','41.30','42.00','-0.50');success
+2022-10-09 13:37:51:099 => 2430 End
+2022-10-09 13:37:51:100 => 1402 Start
+2022-10-09 13:37:51:101 => wget Start
+2022-10-09 13:37:51:418 => wget Close
+2022-10-09 13:37:51:443 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1402','31.90','32.35','31.70','32.15','-0.20');success
+2022-10-09 13:37:51:457 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1402','32.30','32.40','32.00','32.15',' 0.00');success
+2022-10-09 13:37:51:472 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1402','32.00','32.20','31.55','31.75','-0.40');success
+2022-10-09 13:37:51:488 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1402','31.95','32.35','31.70','32.15','+0.40');success
+2022-10-09 13:37:51:505 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1402','31.95','32.25','31.90','32.10','-0.05');success
+2022-10-09 13:37:56:508 => 1402 End
+2022-10-09 13:37:56:509 => 9937 Start
+2022-10-09 13:37:56:509 => wget Start
+2022-10-09 13:37:56:807 => wget Close
+2022-10-09 13:37:56:826 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','9937','49.05','49.10','49.05','49.10','-0.60');success
+2022-10-09 13:37:56:840 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','9937','48.70','49.90','48.70','49.15','+0.05');success
+2022-10-09 13:37:56:854 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','9937','48.50','49.10','48.50','49.00','-0.15');success
+2022-10-09 13:37:56:868 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','9937','48.80','49.00','48.80','49.00',' 0.00');success
+2022-10-09 13:37:56:882 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','9937','--','--','--','--',' 0.00');success
+2022-10-09 13:38:01:886 => 9937 End
+2022-10-09 13:38:01:887 => 1323 Start
+2022-10-09 13:38:01:887 => wget Start
+2022-10-09 13:38:02:345 => wget Close
+2022-10-09 13:38:02:364 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1323','33.00','33.25','32.80','33.00',' 0.00');success
+2022-10-09 13:38:02:378 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1323','33.20','33.20','32.85','33.10','+0.10');success
+2022-10-09 13:38:02:395 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1323','33.00','33.10','32.85','33.00','-0.10');success
+2022-10-09 13:38:02:409 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1323','33.30','33.60','32.90','33.10','+0.10');success
+2022-10-09 13:38:02:425 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1323','33.30','33.30','32.85','33.05','-0.05');success
+2022-10-09 13:38:07:437 => 1323 End
+2022-10-09 13:38:07:441 => 2616 Start
+2022-10-09 13:38:07:442 => wget Start
+2022-10-09 13:38:07:987 => wget Close
+2022-10-09 13:38:08:025 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2616','33.60','33.60','33.30','33.45','-0.15');success
+2022-10-09 13:38:08:055 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2616','33.50','33.60','33.40','33.55','+0.10');success
+2022-10-09 13:38:08:085 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2616','33.70','33.70','33.50','33.60','+0.05');success
+2022-10-09 13:38:08:118 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2616','33.60','33.60','33.50','33.60',' 0.00');success
+2022-10-09 13:38:08:151 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2616','33.55','33.60','33.45','33.60',' 0.00');success
+2022-10-09 13:38:13:162 => 2616 End
+2022-10-09 13:38:13:163 => 2441 Start
+2022-10-09 13:38:13:163 => wget Start
+2022-10-09 13:38:13:457 => wget Close
+2022-10-09 13:38:13:497 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2441','49.30','50.40','49.25','49.75','+0.50');success
+2022-10-09 13:38:13:518 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2441','50.40','51.60','50.30','50.60','+0.85');success
+2022-10-09 13:38:13:537 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2441','51.50','51.80','50.50','50.50','-0.10');success
+2022-10-09 13:38:13:555 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2441','51.20','51.20','49.90','50.20','-0.30');success
+2022-10-09 13:38:13:572 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2441','50.30','50.30','49.30','49.50','-0.70');success
+2022-10-09 13:38:18:577 => 2441 End
+2022-10-09 13:38:18:579 => 1730 Start
+2022-10-09 13:38:18:580 => wget Start
+2022-10-09 13:38:18:958 => wget Close
+2022-10-09 13:38:18:983 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1730','55.30','55.30','55.00','55.00','-0.80');success
+2022-10-09 13:38:19:003 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1730','55.10','55.30','55.00','55.30','+0.30');success
+2022-10-09 13:38:19:018 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1730','55.20','55.70','55.10','55.30',' 0.00');success
+2022-10-09 13:38:19:037 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1730','55.40','55.40','55.30','55.40','+0.10');success
+2022-10-09 13:38:19:055 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1730','55.30','56.50','55.30','55.30','-0.10');success
+2022-10-09 13:38:24:064 => 1730 End
+2022-10-09 13:38:24:065 => 4527 Start
+2022-10-09 13:38:24:065 => wget Start
+2022-10-09 13:38:25:955 => wget Close
+2022-10-09 13:38:25:956 => 4527.json data error
+2022-10-09 13:38:30:966 => 4527 End
+2022-10-09 13:38:30:967 => 1712 Start
+2022-10-09 13:38:30:967 => wget Start
+2022-10-09 13:38:31:432 => wget Close
+2022-10-09 13:38:31:473 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','1712','38.55','39.15','37.90','38.00','-0.70');success
+2022-10-09 13:38:31:506 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','1712','38.10','38.80','38.05','38.75','+0.75');success
+2022-10-09 13:38:31:535 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','1712','38.90','39.00','37.90','37.90','-0.85');success
+2022-10-09 13:38:31:565 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','1712','38.10','38.25','37.10','37.65','-0.25');success
+2022-10-09 13:38:31:593 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','1712','37.35','37.45','36.40','36.40','-1.25');success
+2022-10-09 13:38:36:603 => 1712 End
+2022-10-09 13:38:36:606 => 2433 Start
+2022-10-09 13:38:36:607 => wget Start
+2022-10-09 13:38:37:102 => wget Close
+2022-10-09 13:38:37:144 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','2433','47.00','47.00','46.55','46.85','-0.15');success
+2022-10-09 13:38:37:174 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','2433','48.75','48.75','46.70','47.00','+0.15');success
+2022-10-09 13:38:37:207 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','2433','47.00','47.45','47.00','47.00',' 0.00');success
+2022-10-09 13:38:37:238 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','2433','47.00','47.00','46.75','47.00',' 0.00');success
+2022-10-09 13:38:37:263 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','2433','47.10','47.10','47.00','47.00',' 0.00');success
+2022-10-09 13:38:42:268 => 2433 End
+2022-10-09 13:38:42:271 => 00713 Start
+2022-10-09 13:38:42:271 => wget Start
+2022-10-09 13:38:42:738 => wget Close
+2022-10-09 13:38:42:778 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','00713','36.36','36.60','36.26','36.41','-0.20');success
+2022-10-09 13:38:42:807 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','00713','36.70','37.04','36.70','37.01','+0.60');success
+2022-10-09 13:38:42:837 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','00713','37.20','37.33','37.18','37.26','+0.25');success
+2022-10-09 13:38:42:863 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','00713','37.31','37.34','37.14','37.19','-0.07');success
+2022-10-09 13:38:42:888 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','00713','37.09','37.09','36.84','36.86','-0.33');success
+2022-10-09 13:38:47:898 => 00713 End
+2022-10-09 13:38:47:899 => 00731 Start
+2022-10-09 13:38:47:900 => wget Start
+2022-10-09 13:38:48:185 => wget Close
+2022-10-09 13:38:48:202 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111003','00731','54.75','54.75','54.45','54.55','-0.50');success
+2022-10-09 13:38:48:217 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111004','00731','55.00','55.00','54.60','55.00','+0.45');success
+2022-10-09 13:38:48:231 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111005','00731','55.10','55.45','55.10','55.25','+0.25');success
+2022-10-09 13:38:48:247 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111006','00731','55.30','55.50','55.20','55.35','+0.10');success
+2022-10-09 13:38:48:261 => Json2SQLite: INSERT INTO main (Time,Stock_code,Opening_price,Highest_price,Lowest_price,Closing_price,Price_difference) VALUES ('1111007','00731','55.00','55.05','54.90','54.95','-0.40');success
+2022-10-09 13:38:53:275 => 00731 End
+2022-10-09 13:38:53:275 => spider_input Close

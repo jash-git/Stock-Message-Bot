@@ -130,7 +130,7 @@ namespace spider_input
             }
 
 
-            pause();
+            //pause();
             LogFile.Write("spider_input Close");
         }
     }
